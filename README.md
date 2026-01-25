@@ -1,4 +1,5 @@
 hi ig  
 game cheat dev (specialize in mono reversing)  
 learning full stack  
-learning reverse engineering  
+learning reverse engineering   
+peace out twin
