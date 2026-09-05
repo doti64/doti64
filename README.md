@@ -1,5 +1,10 @@
-hello!  
-game cheat dev (specializes in mono reversing)  
-learning full stack  
-learning reverse engineering   
-peace out twin
+Unity game developer of 9 months  
+Anti-cheat developer (for VR games mainly)  
+Languages I know:  
+- C#  
+Languages i'm learning:  
+- C++  
+- Rust  
+- Typescript  
+
+  ok bye
