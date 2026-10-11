@@ -3,7 +3,6 @@ Anti-cheat developer (for VR games mainly)
 Languages I know:  
 - C#  
 Languages i'm learning:  
-- C++  
 - Rust  
 - Typescript  
 
